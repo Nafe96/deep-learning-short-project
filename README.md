@@ -15,10 +15,10 @@ The dataset consists of:
 - **8,005 training images**  
 - **2,023 testing images**  
 - **Classes:**  
-  1. 🐶 Dog  
-  2. 🐱 Cat
+  1.  Dog  
+  2.  Cat
  
-## 📊 Results  
+##  Results  
 The trained CNN model successfully classifies dogs and cats with high accuracy.  
 
 
@@ -28,7 +28,7 @@ The trained CNN model successfully classifies dogs and cats with high accuracy.
 The dataset used for training and testing can be accessed here:  
 [**Download Dataset**](https://drive.google.com/drive/folders/1mU1-bcZt6pM1TpyF8CzFlEqGOJC1Ymwx?usp=sharing)
  
-## 🚀 Installation  
+## Installation  
 
 1. Clone the repository:  
    ```bash
